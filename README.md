@@ -28,7 +28,8 @@ npm run dev
 The app will be available at http://localhost:3000
 
 
-🤝 Contributing
+## 🤝 Contributing
+
 Feel free to use the repository and submit pull requests! 🚀
 
 ## Screenshots
